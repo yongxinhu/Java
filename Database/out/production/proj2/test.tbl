@@ -1,0 +1,5 @@
+x int,y string,z string,w float,k int,m string
+2,'5','a',2.5,NOVALUE,NaN
+8,NOVALUE,NaN,NOVALUE,NOVALUE,NaN
+13,'4','d',0.0,NOVALUE,NaN
+4,'s','',NaN,NOVALUE,NaN
